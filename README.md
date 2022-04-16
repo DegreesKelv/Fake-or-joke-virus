@@ -1,1 +1,5 @@
-# Fake-or-joke-virus
+This is the very first version of the program. And I mean _very._ It is not malicious in any way. However, it does put itself in your common startup directory, so if you want to remove it, it's there. To get there just do Win+R, then type shell:common startup, then just delete the file from there. After that, if you want it again, just download it from here.
+
+tl;dr, places itself in common startup, so get rid of it from there.
+
+Okay, with that out of the way, this program is a very simple VBScript project I made in notepad. It says you have a virus, says it got rid of it, then says that the virus replicates itself so the popup has to run on startup. I may improve this later, which I personally think needs to be. I'm just posting it now because there may be more wrong with it, and I would like to fix it all in one big update instead of one at a time. Speaking of, feel free to report bugs, things that could be improved on, etcetera. That's all I have to say for now. Enjoy the program, if possible!
